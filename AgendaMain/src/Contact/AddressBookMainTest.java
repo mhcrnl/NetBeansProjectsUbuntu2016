@@ -38,7 +38,7 @@ public class AddressBookMainTest {
     
     public static void main (String[] args) {
    
-         
+         Contact con = new Contact();
         
 
         
